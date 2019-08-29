@@ -17,8 +17,6 @@ from lib.common.config import Config
 from lib.core.packages import _initiate_recognition
 
 # TODOs:
-# Determine why status is not getting updated, even while requesting to agent properly.
-# Set up a method to enfore timeout if configured.
 # Add support for URL category.
 log = logging.getLogger("analyzer")
 
