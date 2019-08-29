@@ -3,7 +3,6 @@
 # See the file 'docs/LICENSE' for copying permission.
 import sys
 import os
-import urllib
 import urllib2
 import socket
 import logging
